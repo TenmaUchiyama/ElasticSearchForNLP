@@ -1,0 +1,52 @@
+{
+  "settings": {
+    "index": {
+      "analysis": {
+        "filter": {
+          "search": {
+            "type": "sudachi_split",
+            "mode": "search"
+          },
+
+          "romaji_readingform": {
+            "type": "sudachi_readingform",
+            "use_romaji": true
+          },
+          "katakana_readingform": {
+            "type": "sudachi_readingform",
+            "use_romaji": false
+          }
+        },
+        "tokenizer": {
+          "sudachi_tokenizer": {
+            "type": "sudachi_tokenizer",
+            "split_mode": "C",
+
+            "discard_punctuation": true,
+            "resources_path": "/usr/share/elasticsearch/config/sudachi/system_full.dic",
+            "settings_path": "/usr/share/elasticsearch/config/sudachi/sudachi.json"
+          }
+        },
+        "analyzer": {
+          "sudachi_analyzer": {
+            "filter": [],
+            "tokenizer": "sudachi_tokenizer",
+            "type": "custom"
+          }
+        }
+      }
+    },
+
+    "mappings": {
+      "properties": {
+        "name": {
+          "type": "keyword"
+        },
+        "text": {
+          "type": "text",
+          "analyzer": "sudachi_analyzer"
+        }
+      }
+    }
+  }
+}

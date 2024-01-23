@@ -1,0 +1,60 @@
+{
+  "settings": {
+    "index": {
+      "analysis": {
+        "filter": {
+          "search": {
+            "type": "sudachi_split",
+            "mode": "search"
+          },
+          "synonym": {
+            "type": "synonym",
+            "synonyms": ["関西国際空港,関空", "関西 => 近畿"]
+          },
+          "romaji_readingform": {
+            "type": "sudachi_readingform",
+            "use_romaji": true
+          },
+          "katakana_readingform": {
+            "type": "sudachi_readingform",
+            "use_romaji": false
+          }
+        },
+        "tokenizer": {
+          "sudachi_tokenizer": {
+            "type": "sudachi_tokenizer",
+            "split_mode": "C",
+            "discard_punctuation": true,
+            "resources_path": "/usr/share/elasticsearch/config/sudachi/",
+            "settings_path": "/usr/share/elasticsearch/config/sudachi/sudachi.json"
+          },
+          "sudachi_a_tokenizer": {
+            "type": "sudachi_tokenizer",
+            "split_mode": "A",
+            "discard_punctuation": true,
+            "resources_path": "/usr/share/elasticsearch/config/sudachi/",
+            "settings_path": "/usr/share/elasticsearch/config/sudachi/sudachi.json"
+          }
+        },
+        "analyzer": {
+          "sudachi_c_analyzer": {
+            "filter": ["search"],
+            "tokenizer": "sudachi_tokenizer",
+            "type": "custom"
+          },
+          "sudachi_a_analyzer": {
+            "filter": ["search"],
+            "tokenizer": "sudachi_a_tokenizer",
+            "type": "custom"
+          }
+        }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+      "name": { "type": "keyword" },
+      "text": { "type": "text", "analyzer": "sudachi_a_analyzer" }
+    }
+  }
+}

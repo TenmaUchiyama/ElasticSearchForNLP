@@ -1,0 +1,73 @@
+{ "index" : { "_index" : "sudachi_a_index",  "_id" : "1" } }
+{	"name": "data1", 	"text" : "私は東京都に行きます。"}
+{ "index" : { "_index" : "sudachi_a_index",  "_id" : "2" } }
+{"name": "data2", "text" : "2年前まで京都府に住んでいました。"}
+{ "index" : { "_index" : "sudachi_a_index",  "_id" : "3" } }
+{	"name": "data3", 	"text" : "彼女は国立新美術館に訪れました。"}
+{ "index" : { "_index" : "sudachi_a_index",  "_id" : "4" } }
+{	"name": "data4", 	"text" : "私は大学でFOの勉強をしています。"}
+{ "index" : { "_index" : "sudachi_a_index",  "_id" : "5" } }
+{	"name": "data5", 	"text" : "明日は友達の家でプレイステーションポータブルのモンスターハンターで遊ぶ予定です。"}
+{ "index" : { "_index" : "sudachi_a_index",  "_id" : "6" } }
+{	"name": "data6", 	"text" : "私は、大学院でバーチャルリアリティの勉強、研究をしています。"	}
+{ "index" : { "_index" : "sudachi_a_index",  "_id" : "7" } }
+{"name": "data7", 	"text" : "2021年の流行語のひとつに、ありよりのありというものがあります。"	},
+{ "index" : { "_index" : "sudachi_a_index",  "_id" : "8" } }
+{	"name": "data8", 	"text" : "私は、夏休みの自由研究で、蟻の巣の観察日記を作りました。"	}
+{ "index" : { "_index" : "sudachi_a_index",  "_id" : "9" } }
+{"name": "data9", "text" : "体を動かすことで、病気による死亡のリスクを低下させることができます。"}
+{ "index" : { "_index" : "sudachi_a_index",  "_id" : "10" } }
+{"name": "data10", "text" : "今日の講義は受容体についての話でした。"}
+{ "index" : { "_index" : "sudachi_a_index",  "_id" : "11" } }
+{"name": "data10", "text" : "2020年に流行った新型コロナウイルスは空気感染による二次感染の恐れがあります。"}
+{ "index" : { "_index" : "sudachi_a_index",  "_id" : "12" } }
+{"name": "data10", "text" : "空気中に含まれる酸素の割合はおおよそ21%です。"}
+{ "index" : { "_index" : "sudachi_c_index",  "_id" : "1" } }
+{	"name": "data1", 	"text" : "私は東京都に行きます。"}
+{ "index" : { "_index" : "sudachi_c_index",  "_id" : "2" } }
+{"name": "data2", "text" : "2年前まで京都府に住んでいました。"}
+{ "index" : { "_index" : "sudachi_c_index",  "_id" : "3" } }
+{	"name": "data3", 	"text" : "彼女は国立新美術館に訪れました。"}
+{ "index" : { "_index" : "sudachi_c_index",  "_id" : "4" } }
+{	"name": "data4", 	"text" : "私は大学でFOの勉強をしています。"}
+{ "index" : { "_index" : "sudachi_c_index",  "_id" : "5" } }
+{	"name": "data5", 	"text" : "明日は友達の家でプレイステーションポータブルのモンスターハンターで遊ぶ予定です。"}
+{ "index" : { "_index" : "sudachi_c_index",  "_id" : "6" } }
+{	"name": "data6", 	"text" : "私は、大学院でバーチャルリアリティの勉強、研究をしています。"	}
+{ "index" : { "_index" : "sudachi_c_index",  "_id" : "7" } }
+{"name": "data7", 	"text" : "2021年の流行語のひとつに、ありよりのありというものがあります。"	},
+{ "index" : { "_index" : "sudachi_c_index",  "_id" : "8" } }
+{	"name": "data8", 	"text" : "私は、夏休みの自由研究で、蟻の巣の観察日記を作りました。"	}
+{ "index" : { "_index" : "sudachi_c_index",  "_id" : "9" } }
+{"name": "data9", "text" : "体を動かすことで、病気による死亡のリスクを低下させることができます。"}
+{ "index" : { "_index" : "sudachi_c_index",  "_id" : "10" } }
+{"name": "data10", "text" : "今日の講義は受容体についての話でした。"}
+{ "index" : { "_index" : "sudachi_c_index",  "_id" : "11" } }
+{"name": "data10", "text" : "2020年に流行った新型コロナウイルスは空気感染による二次感染の恐れがあります。"}
+{ "index" : { "_index" : "sudachi_c_index",  "_id" : "12" } }
+{"name": "data10", "text" : "空気中に含まれる酸素の割合はおおよそ21%です。"}
+{ "index" : { "_index" : "kuromoji_index",  "_id" : "1" } }
+{	"name": "data1", 	"text" : "私は東京都に行きます。"}
+{ "index" : { "_index" : "kuromoji_index",  "_id" : "2" } }
+{"name": "data2", "text" : "2年前まで京都府に住んでいました。"}
+{ "index" : { "_index" : "kuromoji_index",  "_id" : "3" } }
+{	"name": "data3", 	"text" : "彼女は国立新美術館に訪れました。"}
+{ "index" : { "_index" : "kuromoji_index",  "_id" : "4" } }
+{	"name": "data4", 	"text" : "私は大学でFOの勉強をしています。"}
+{ "index" : { "_index" : "kuromoji_index",  "_id" : "5" } }
+{	"name": "data5", 	"text" : "明日は友達の家でプレイステーションポータブルのモンスターハンターで遊ぶ予定です。"}
+{ "index" : { "_index" : "kuromoji_index",  "_id" : "6" } }
+{	"name": "data6", 	"text" : "私は、大学院でバーチャルリアリティの勉強、研究をしています。"	}
+{ "index" : { "_index" : "kuromoji_index",  "_id" : "7" } }
+{"name": "data7", 	"text" : "2021年の流行語のひとつに、ありよりのありというものがあります。"	},
+{ "index" : { "_index" : "kuromoji_index",  "_id" : "8" } }
+{	"name": "data8", 	"text" : "私は、夏休みの自由研究で、蟻の巣の観察日記を作りました。"	}
+{ "index" : { "_index" : "kuromoji_index",  "_id" : "9" } }
+{"name": "data9", "text" : "体を動かすことで、病気による死亡のリスクを低下させることができます。"}
+{ "index" : { "_index" : "kuromoji_index",  "_id" : "10" } }
+{"name": "data10", "text" : "今日の講義は受容体についての話でした。"}
+{ "index" : { "_index" : "kuromoji_index",  "_id" : "11" } }
+{"name": "data10", "text" : "今日2020年に流行った新型コロナウイルスは空気感染による二次感染の恐れがあります。"}
+{ "index" : { "_index" : "kuromoji_index",  "_id" : "12" } }
+{"name": "data10", "text" : "空気中に含まれる酸素の割合はおおよそ21%です。"}
+
