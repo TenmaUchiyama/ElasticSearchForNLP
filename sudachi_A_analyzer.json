@@ -53,7 +53,6 @@
   },
   "mappings": {
     "properties": {
-      "name": { "type": "keyword" },
       "text": { "type": "text", "analyzer": "sudachi_a_analyzer" }
     }
   }

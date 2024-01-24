@@ -1,73 +1,61 @@
-{ "index" : { "_index" : "sudachi_a_index",  "_id" : "1" } }
-{	"name": "data1", 	"text" : "私は東京都に行きます。"}
-{ "index" : { "_index" : "sudachi_a_index",  "_id" : "2" } }
-{"name": "data2", "text" : "2年前まで京都府に住んでいました。"}
-{ "index" : { "_index" : "sudachi_a_index",  "_id" : "3" } }
-{	"name": "data3", 	"text" : "彼女は国立新美術館に訪れました。"}
-{ "index" : { "_index" : "sudachi_a_index",  "_id" : "4" } }
-{	"name": "data4", 	"text" : "私は大学でFOの勉強をしています。"}
-{ "index" : { "_index" : "sudachi_a_index",  "_id" : "5" } }
-{	"name": "data5", 	"text" : "明日は友達の家でプレイステーションポータブルのモンスターハンターで遊ぶ予定です。"}
-{ "index" : { "_index" : "sudachi_a_index",  "_id" : "6" } }
-{	"name": "data6", 	"text" : "私は、大学院でバーチャルリアリティの勉強、研究をしています。"	}
-{ "index" : { "_index" : "sudachi_a_index",  "_id" : "7" } }
-{"name": "data7", 	"text" : "2021年の流行語のひとつに、ありよりのありというものがあります。"	},
-{ "index" : { "_index" : "sudachi_a_index",  "_id" : "8" } }
-{	"name": "data8", 	"text" : "私は、夏休みの自由研究で、蟻の巣の観察日記を作りました。"	}
 { "index" : { "_index" : "sudachi_a_index",  "_id" : "9" } }
-{"name": "data9", "text" : "体を動かすことで、病気による死亡のリスクを低下させることができます。"}
+{"text" : "体を動かすことで、病気による死亡のリスクを低下させることができます。"}
 { "index" : { "_index" : "sudachi_a_index",  "_id" : "10" } }
-{"name": "data10", "text" : "今日の講義は受容体についての話でした。"}
+{ "text" : "今日の講義は受容体についての話でした。"}
 { "index" : { "_index" : "sudachi_a_index",  "_id" : "11" } }
-{"name": "data10", "text" : "2020年に流行った新型コロナウイルスは空気感染による二次感染の恐れがあります。"}
+{ "text" : "2020年に流行った新型コロナウイルスは空気感染による二次感染の恐れがあります。"}
 { "index" : { "_index" : "sudachi_a_index",  "_id" : "12" } }
-{"name": "data10", "text" : "空気中に含まれる酸素の割合はおおよそ21%です。"}
-{ "index" : { "_index" : "sudachi_c_index",  "_id" : "1" } }
-{	"name": "data1", 	"text" : "私は東京都に行きます。"}
-{ "index" : { "_index" : "sudachi_c_index",  "_id" : "2" } }
-{"name": "data2", "text" : "2年前まで京都府に住んでいました。"}
-{ "index" : { "_index" : "sudachi_c_index",  "_id" : "3" } }
-{	"name": "data3", 	"text" : "彼女は国立新美術館に訪れました。"}
-{ "index" : { "_index" : "sudachi_c_index",  "_id" : "4" } }
-{	"name": "data4", 	"text" : "私は大学でFOの勉強をしています。"}
-{ "index" : { "_index" : "sudachi_c_index",  "_id" : "5" } }
-{	"name": "data5", 	"text" : "明日は友達の家でプレイステーションポータブルのモンスターハンターで遊ぶ予定です。"}
-{ "index" : { "_index" : "sudachi_c_index",  "_id" : "6" } }
-{	"name": "data6", 	"text" : "私は、大学院でバーチャルリアリティの勉強、研究をしています。"	}
-{ "index" : { "_index" : "sudachi_c_index",  "_id" : "7" } }
-{"name": "data7", 	"text" : "2021年の流行語のひとつに、ありよりのありというものがあります。"	},
-{ "index" : { "_index" : "sudachi_c_index",  "_id" : "8" } }
-{	"name": "data8", 	"text" : "私は、夏休みの自由研究で、蟻の巣の観察日記を作りました。"	}
+{ "text" : "空気中に含まれる酸素の割合はおおよそ21%です。"}
+{ "index" : { "_index" : "sudachi_a_index",  "_id" : "13" } }
+{ "text" : "美術の授業で二次元と三次元の違いについて学び、生徒たちは平面的なアートワークと立体的な彫刻の作成に挑戦しました。"}
+{ "index" : { "_index" : "sudachi_a_index",  "_id" : "14" } }
+{ "text" : "体育の授業での筋力トレーニングの一環として、生徒たちは壁に背を向けて空気椅子のポーズを取り、太ももの筋肉を鍛える練習を行いました。"}
+{ "index" : { "_index" : "sudachi_a_index",  "_id" : "15" } }
+{ "text" : "この二次方程式を解くためには、まず判別式を計算する必要があります。"}
+{ "index" : { "_index" : "sudachi_a_index",  "_id" : "16" } }
+{ "text" : "彼女は人気アニメのキャラクターをベースにした二次創作小説を書いて、インターネット上で公開している。"}
+{ "index" : { "_index" : "sudachi_a_index",  "_id" : "17" } }
+{ "text" : "病院では患者さんと医療従事者の安全を守るために、厳格な感染予防措置が講じられ"}
+{ "index" : { "_index" : "sudachi_a_index",  "_id" : "18" } }
+{ "text" : "医療施設におけるクロス感染を防ぐため、訪問者にも手指消毒やマスク着用が求められます。"}
 { "index" : { "_index" : "sudachi_c_index",  "_id" : "9" } }
-{"name": "data9", "text" : "体を動かすことで、病気による死亡のリスクを低下させることができます。"}
+{"text" : "体を動かすことで、病気による死亡のリスクを低下させることができます。"}
 { "index" : { "_index" : "sudachi_c_index",  "_id" : "10" } }
-{"name": "data10", "text" : "今日の講義は受容体についての話でした。"}
+{ "text" : "今日の講義は受容体についての話でした。"}
 { "index" : { "_index" : "sudachi_c_index",  "_id" : "11" } }
-{"name": "data10", "text" : "2020年に流行った新型コロナウイルスは空気感染による二次感染の恐れがあります。"}
+{ "text" : "2020年に流行った新型コロナウイルスは空気感染による二次感染の恐れがあります。"}
 { "index" : { "_index" : "sudachi_c_index",  "_id" : "12" } }
-{"name": "data10", "text" : "空気中に含まれる酸素の割合はおおよそ21%です。"}
-{ "index" : { "_index" : "kuromoji_index",  "_id" : "1" } }
-{	"name": "data1", 	"text" : "私は東京都に行きます。"}
-{ "index" : { "_index" : "kuromoji_index",  "_id" : "2" } }
-{"name": "data2", "text" : "2年前まで京都府に住んでいました。"}
-{ "index" : { "_index" : "kuromoji_index",  "_id" : "3" } }
-{	"name": "data3", 	"text" : "彼女は国立新美術館に訪れました。"}
-{ "index" : { "_index" : "kuromoji_index",  "_id" : "4" } }
-{	"name": "data4", 	"text" : "私は大学でFOの勉強をしています。"}
-{ "index" : { "_index" : "kuromoji_index",  "_id" : "5" } }
-{	"name": "data5", 	"text" : "明日は友達の家でプレイステーションポータブルのモンスターハンターで遊ぶ予定です。"}
-{ "index" : { "_index" : "kuromoji_index",  "_id" : "6" } }
-{	"name": "data6", 	"text" : "私は、大学院でバーチャルリアリティの勉強、研究をしています。"	}
-{ "index" : { "_index" : "kuromoji_index",  "_id" : "7" } }
-{"name": "data7", 	"text" : "2021年の流行語のひとつに、ありよりのありというものがあります。"	},
-{ "index" : { "_index" : "kuromoji_index",  "_id" : "8" } }
-{	"name": "data8", 	"text" : "私は、夏休みの自由研究で、蟻の巣の観察日記を作りました。"	}
+{ "text" : "空気中に含まれる酸素の割合はおおよそ21%です。"}
+{ "index" : { "_index" : "sudachi_c_index",  "_id" : "13" } }
+{ "text" : "美術の授業で二次元と三次元の違いについて学び、生徒たちは平面的なアートワークと立体的な彫刻の作成に挑戦しました。"}
+{ "index" : { "_index" : "sudachi_c_index",  "_id" : "14" } }
+{ "text" : "体育の授業での筋力トレーニングの一環として、生徒たちは壁に背を向けて空気椅子のポーズを取り、太ももの筋肉を鍛える練習を行いました。"}
+{ "index" : { "_index" : "sudachi_c_index",  "_id" : "15" } }
+{ "text" : "この二次方程式を解くためには、まず判別式を計算する必要があります。"}
+{ "index" : { "_index" : "sudachi_c_index",  "_id" : "16" } }
+{ "text" : "彼女は人気アニメのキャラクターをベースにした二次創作小説を書いて、インターネット上で公開している。"}
+{ "index" : { "_index" : "sudachi_c_index",  "_id" : "17" } }
+{ "text" : "病院では患者さんと医療従事者の安全を守るために、厳格な感染予防措置が講じられ"}
+{ "index" : { "_index" : "sudachi_c_index",  "_id" : "18" } }
+{ "text" : "医療施設におけるクロス感染を防ぐため、訪問者にも手指消毒やマスク着用が求められます。"}
 { "index" : { "_index" : "kuromoji_index",  "_id" : "9" } }
-{"name": "data9", "text" : "体を動かすことで、病気による死亡のリスクを低下させることができます。"}
+{"text" : "体を動かすことで、病気による死亡のリスクを低下させることができます。"}
 { "index" : { "_index" : "kuromoji_index",  "_id" : "10" } }
-{"name": "data10", "text" : "今日の講義は受容体についての話でした。"}
+{ "text" : "今日の講義は受容体についての話でした。"}
 { "index" : { "_index" : "kuromoji_index",  "_id" : "11" } }
-{"name": "data10", "text" : "今日2020年に流行った新型コロナウイルスは空気感染による二次感染の恐れがあります。"}
+{ "text" : "2020年に流行った新型コロナウイルスは空気感染による二次感染の恐れがあります。"}
 { "index" : { "_index" : "kuromoji_index",  "_id" : "12" } }
-{"name": "data10", "text" : "空気中に含まれる酸素の割合はおおよそ21%です。"}
+{ "text" : "空気中に含まれる酸素の割合はおおよそ21%です。"}
+{ "index" : { "_index" : "kuromoji_index",  "_id" : "13" } }
+{ "text" : "美術の授業で二次元と三次元の違いについて学び、生徒たちは平面的なアートワークと立体的な彫刻の作成に挑戦しました。"}
+{ "index" : { "_index" : "kuromoji_index",  "_id" : "14" } }
+{ "text" : "体育の授業での筋力トレーニングの一環として、生徒たちは壁に背を向けて空気椅子のポーズを取り、太ももの筋肉を鍛える練習を行いました。"}
+{ "index" : { "_index" : "kuromoji_index",  "_id" : "15" } }
+{ "text" : "この二次方程式を解くためには、まず判別式を計算する必要があります。"}
+{ "index" : { "_index" : "kuromoji_index",  "_id" : "16" } }
+{ "text" : "彼女は人気アニメのキャラクターをベースにした二次創作小説を書いて、インターネット上で公開している。"}
+{ "index" : { "_index" : "kuromoji_index",  "_id" : "17" } }
+{ "text" : "病院では患者さんと医療従事者の安全を守るために、厳格な感染予防措置が講じられ"}
+{ "index" : { "_index" : "kuromoji_index",  "_id" : "18" } }
+{ "text" : "医療施設におけるクロス感染を防ぐため、訪問者にも手指消毒やマスク着用が求められます。"}
 
